@@ -1,0 +1,3 @@
+<Files _*>
+	Require all denied
+</Files>

@@ -1,0 +1,10 @@
+# Backup files
+*.bak
+*~
+
+# Desktop control files
+.DS_Store
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+ehthumbs.db
